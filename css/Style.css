@@ -208,7 +208,7 @@ main .site-title .btn:hover{
 /* --------------- Blog Carousel ------------ */
 
 main .blog{
-    background: url('../assets/Abstract02.png');
+    /* background: url('../assets/Abstract02.png'); */
     background-repeat: no-repeat;
     background-position: right;
     height: 100vh;
